@@ -70,21 +70,8 @@ ORDER BY revenue DESC;
 
 ---
 
-## 📁 Project Structure
 
-```
-pizza-sales-analysis/
-│
-├── data/
-│   └── dataset files
-│
-├── sql/
-│   └── queries.sql
-│
-├── README.md
-```
 
----
 
 ## 🚀 How to Use
 
